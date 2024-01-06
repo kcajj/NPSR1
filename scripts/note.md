@@ -1,4 +1,4 @@
-# Heading
+# Explanation of the scripts
 
 ## SASA
 The Python script "SASA.py" is a tool to retrieve the solvent-accessible surface area (SASA) of a protein (NPSR1) as a whole, of its transmembrane domain and of its interface (considering the specific ligand NPS). It can be also used on a peptide (NPS).
@@ -9,3 +9,6 @@ python3 SASA.py NPS.dssp NPSR.dssp docking_model.dssp
 ```
 
 Many results will be printed. Among them, there are the SASA values for NPS and NPSR both in their monomeric forms and in the complex, the surface of interaction and the residues that are predicted to be involved in the interaction.
+
+
+## Amino acids composition
