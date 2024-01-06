@@ -12,3 +12,4 @@ Many results will be printed. Among them, there are the SASA values for NPS and 
 
 
 ## Amino acids composition
+The python scripts "functionsFASTA.py" and "functionsGFF.py" contain functions to analyse the amino acid relative abundance in different conditions: in the whole protein and transmembrane domain, both by counting each amino acid or by property. The output of the functions is used to create barplots of the relative abundances.
