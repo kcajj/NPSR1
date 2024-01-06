@@ -217,7 +217,7 @@ def plot_bypropertyTM(GFF, FASTA):
     res_count = count_residues_bypropertyTM(GFF, FASTA, False)
 
     # Barplot 
-    plt.title("Residue relative abundance")
+    plt.title("Residue relative abundance transmembrane domain by property")
     plt.bar(res_count.keys(), res_count.values(), color = ['orange', 'green', 'pink', 'red', 'blue'])
     plt.xlabel("Properties")
     plt.ylabel("Relative abundance (%)")
