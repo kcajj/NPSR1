@@ -241,7 +241,7 @@ if __name__ == '__main__':
     s_nps, s_npsr, s_npsr_inter, s_nps_inter = SASA_results[0], SASA_results[1], SASA_results[2], SASA_results[3]
 
     surface_interaction = interaction_surface(s_nps, s_npsr, s_npsr_inter, s_nps_inter)
-    print("\nSurface of interaction:", surface_interaction, "Å^2\n")
+    print("Surface of interaction:", surface_interaction, "Å^2\n")
 
     # Interface residues
     inter_res = find_interface_residues(file_NPSR, file_docking)
