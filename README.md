@@ -4,7 +4,7 @@ This repository contains the project that was part of the final exam of the "Pro
 
 # Contents
 
-You can find the final report [here](report)
+You can find the final report [here](report.md)
 
 You can find the explanations of the scripts [here](scripts/note.md)
 
