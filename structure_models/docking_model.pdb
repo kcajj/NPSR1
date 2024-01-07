@@ -1,5 +1,4 @@
 HEADER rec.pdb
-REMARK original generated coordinate pdb file
 ATOM      1  N   MET A   1      48.411   9.735 -65.752  1.00  0.00      RA0  N
 ATOM      2  H   MET A   1      48.020   9.392 -66.611  1.00  0.00      RA0  H
 ATOM      3  CA  MET A   1      49.452  10.749 -66.060  1.00  0.00      RA0  C
@@ -3652,7 +3651,6 @@ ATOM   3649  CG1 ILE A 371     -10.258 -17.405  59.371  1.00  0.00      RA0  C
 ATOM   3650  CD1 ILE A 371     -11.626 -17.790  59.937  1.00  0.00      RA0  C
 ATOM   3651  C   ILE A 371      -7.694 -19.163  57.073  1.00  0.00      RA0  C
 ATOM   3652  O   ILE A 371      -8.194 -19.303  55.929  1.00  0.00      RA0  O
-TER
 HEADER lig.000.09.pdb
 ATOM   3653  N   MET B   1       5.576   3.561  -1.431  1.00  0.00      LA0  N
 ATOM   3654  H   MET B   1       4.875   3.539  -2.148  1.00  0.00      LA0  H
@@ -4530,5 +4528,3 @@ ATOM   4525  OG  SER B  89      20.612  36.617 -91.082  1.00  0.00      LA0  O
 ATOM   4526  HG  SER B  89      20.924  36.002 -91.736  1.00  0.00      LA0  H
 ATOM   4527  C   SER B  89      19.955  40.286 -91.249  1.00  0.00      LA0  C
 ATOM   4528  O   SER B  89      18.760  40.536 -91.370  1.00  0.00      LA0  O
-TER
-4529B
