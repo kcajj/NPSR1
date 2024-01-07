@@ -39,7 +39,7 @@ def fix_pdb(input_filename, output_filename):
             new_pdb.write(new_line)
 
 if __name__=="__main__":
-    input_filename="structure_models/docking_output.pdb"
-    output_filename="structure_models/docking_model.pdb"
+    input_filename="docking_output.pdb"
+    output_filename="docking_model.pdb"
 
     fix_pdb(input_filename, output_filename)
