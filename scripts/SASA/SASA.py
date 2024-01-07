@@ -171,7 +171,7 @@ if __name__ == '__main__':
 
     # Interface residues
     inter_res = find_interface_residues(file_NPSR, file_docking)
-    print("The residues involved in the interaction are:")
+    print("The residues that are most involved in the interaction are:")
     for res in inter_res:
         print(res)
     print("")
